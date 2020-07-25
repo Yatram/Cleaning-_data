@@ -10,13 +10,21 @@ libraries to be used
 Data needed 
 
 1.- X_test.tx
+
 2.- Y_test.tx
+
 3.- X_train.tx
+
 4.- Y_train.tx
+
 5.- subject_test.tx
+
 6.- subject_train.tx
+
 7.- features.tx
+
 8.- activity_labels.txt
+
 
 This files can you  foun  in :
 
@@ -31,13 +39,21 @@ the files described above.
 los archivos estan asignados de la siguiente manera:
 
 training.x <- X_train
+
 training.y <- Y_train
+
 sub.train <- subject_train
+
 test.x <- X_test
+
 test.y <- Y_test
+
 sub.test <- subject_test
+
 feat <- features
+
 lab <- activity_labels
+
 
 The first thing that was done before starting with the 
 first step was to see the content of the loaded data, 
