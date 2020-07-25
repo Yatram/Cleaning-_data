@@ -1,4 +1,4 @@
-Data Cleaning 
+###Data Cleaning 
 
 A set of data was extracted from archive.ics.edu, which contains observations of individuals who were monitored by smarth phones, when carrying out a catalogue of activities.
 The purpose is to manage the different files in order to work on cleaning and ordering the data to create a new set of ordered data.
