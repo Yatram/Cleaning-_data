@@ -31,7 +31,8 @@ test.x$subject <- sub.test$V1
 #anser step 1
 df.complete <- rbind(training.x, test.x)
 
-
+# save the dataframe 
+write.csv(df.comp.mean, file = "tidydf.csv")
 
 
 
